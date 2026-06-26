@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motiviert, praxisnah zu lernen, neue Technologien umzusetzen und Projekte erfolgreich zu realisieren.
+Informatikstudent an der Hochschule Darmstadt mit praktischer Erfahrung in Java-, C#- und SQL-Entwicklung durch zwei Praktika in der Softwareentwicklung. Interesse an Backend-Systemen, Datenbanken und Softwarearchitektur sowie Freude an der Umsetzung eigener Projekte.
 
 
 # 💻 Tech Stack:
